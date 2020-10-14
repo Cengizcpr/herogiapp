@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "total_time": 25,
+        "distance":5000
+    
+    },
+    {
+        "id": 2,
+        "total_time": 24,
+        "distance":4800
+        
+    },
+    {
+        "id": 3,
+        "total_time": 28,
+        "distance":6000
+    },
+    
+    {
+        "id": 4,
+        "total_time": 40,
+        "distance":10000
+    },
+    {
+        "id": 5,
+        "total_time": 12,
+        "distance":2000
+    },
+    {
+        "id": 6,
+        "total_time": 42,
+        "distance":10000
+    },
+    {
+        "id": 7,
+        "total_time": 20,
+        "distance":5000
+    },
+    {
+        "id": 8,
+        "total_time": 21,
+        "distance":5000
+    },
+    {
+        "id": 9,
+        "total_time": 30,
+        "distance":5000
+    },
+    {
+        "id": 10,
+        "total_time": 22,
+        "distance":5000
+    },
+    {
+        "id": 11,
+        "total_time": 30,
+        "distance":6000
+    },
+    {
+        "id": 12,
+        "total_time": 28,
+        "distance":4500
+    },
+    {
+        "id": 13,
+        "total_time": 18,
+        "distance":5000
+    },
+    {
+        "id": 14,
+        "total_time": 60,
+        "distance":10000
+    },
+    {
+        "id": 15,
+        "total_time": 45,
+        "distance":8000
+    }
+]

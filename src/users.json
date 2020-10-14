@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "User1",
+        "age":"24",
+        "sex":"Erkek"
+    },
+    {
+        "id": 2,
+        "name": "Ahmet",
+        "age":"21",
+        "sex":"Erkek"
+        
+    },
+    {
+        "id": 3,
+        "name": "Yunus",
+        "age":"28",
+        "sex":"Erkek"
+    },
+    
+    {
+        "id": 4,
+        "name": "User4",
+        "age":"22",
+        "sex":"Erkek"
+    },
+    {
+        "id": 5,
+        "name": "John",
+        "age":"34",
+        "sex":"Erkek"
+    },
+    {
+        "id": 6,
+        "name": "Adam",
+        "age":"31",
+        "sex":"Erkek"
+    },
+    {
+        "id": 7,
+        "name": "Brian",
+        "age":"41",
+        "sex":"Erkek"
+    },
+    {
+        "id": 8,
+        "name": "Tyler",
+        "age":"26",
+        "sex":"Erkek"
+    },
+    {
+        "id": 9,
+        "name": "Ceren",
+        "age":"35",
+        "sex":"Kadın"
+    },
+    {
+        "id": 10,
+        "name": "Hasan",
+        "age":"43",
+        "sex":"Erkek"
+    },
+    {
+        "id": 11,
+        "name": "Selen",
+        "age":"29",
+        "sex":"Kadın"
+    },
+    {
+        "id": 12,
+        "name": "Diana",
+        "age":"45",
+        "sex":"Kadın"
+    },
+    {
+        "id": 13,
+        "name": "Thomas",
+        "age":"44",
+        "sex":"Erkek"
+    },
+    {
+        "id": 14,
+        "name": "James",
+        "age":"39",
+        "sex":"Erkek"
+    },
+    {
+        "id": 15,
+        "name": "Janet",
+        "age":"36",
+        "sex":"Erkek"
+    }
+]
